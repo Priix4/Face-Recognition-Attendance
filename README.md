@@ -4,16 +4,16 @@
 A smart attendance system using face recognition to automate attendance marking with role-based dashboards.
 
 ## ⚙️ How to Run
-# Clone repository
+Clone repository
 git clone <your-repo-link>
 
-# Go inside folder
+Go inside folder
 cd Face-Recognition-Attendance
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# Run project
+Run project
 streamlit run home.py
 
 
