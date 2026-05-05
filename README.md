@@ -36,6 +36,8 @@ A smart, automated attendance system that uses real-time face recognition to mar
 ---
 
 ## 📂 Project Structure
+
+```
 Face_recognition_Attendance/
 │
 ├── home.py               # Main app entry point
@@ -49,6 +51,7 @@ Face_recognition_Attendance/
 ├── models/               # Trained models
 ├── modules/              # Helper modules
 └── pages/                # Streamlit pages
+```
 
 ---
 
