@@ -36,4 +36,58 @@ A smart, automated attendance system that uses real-time face recognition to mar
 ---
 
 ## 📂 Project Structure
+Face_recognition_Attendance/
+│
+├── home.py               # Main app entry point
+├── scanner.py            # Face scanning logic
+├── register_face.py      # Register new faces
+├── train_model.py        # Train the recognition model
+├── requirements.txt      # Dependencies
+│
+├── data/                 # Attendance records
+├── dataset/              # Stored face images
+├── models/               # Trained models
+├── modules/              # Helper modules
+└── pages/                # Streamlit pages
+
+---
+
+## ⚙️ How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Priix4/Face-Recognition-Attendance.git
+cd Face-Recognition-Attendance
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+```bash
+streamlit run home.py
+```
+
+---
+
+## 🚀 How It Works
+1. **Register** — Add a new person by capturing their face images
+2. **Train** — Train the model on registered faces
+3. **Scan** — Run the scanner to detect and recognize faces
+4. **Attendance** — Attendance is automatically marked and saved
+
+---
+
+## 👩‍💻 Author
+**Priya Gupta** 
+
+[![GitHub](https://img.shields.io/badge/GitHub-Priix4-black?logo=github)](https://github.com/Priix4)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
 
