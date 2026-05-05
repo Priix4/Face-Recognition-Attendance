@@ -9,11 +9,6 @@ A smart, automated attendance system that uses real-time face recognition to mar
 
 ---
 
-## 📸 Demo
-> Live link will be added after deployment
-
----
-
 ## 💡 Features
 - 🔍 Real-time face detection using webcam
 - 🧠 Automatic attendance marking using face recognition
