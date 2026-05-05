@@ -19,12 +19,19 @@ streamlit run home.py
 
 ## 💡 Features
 🔐 Login system (Admin / Teacher / Student)
+
 🎓 Student dashboard (attendance, marks, notifications)
+
 👩‍🏫 Teacher dashboard (manage attendance)
+
 🛠️ Admin dashboard (manage users & data)
+
 📷 Face registration (capture student faces)
+
 🤖 Train model using captured images
+
 ✅ Automatic attendance using webcam
+
 📊 Attendance stored in CSV files
 
 ---
